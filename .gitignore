@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Pratik.BookSore/obj
+/Pratik.BookSore/bin/Debug/netcoreapp3.1
+/Pratik.BookSore/.vs/Pratik.BookSore/v17
